@@ -9,3 +9,5 @@ Supervised learning: is teaching or training a machine with well-labeled data. T
 2- ***Regression***: Output variables are real values, such as "weights". 
 ## Unsupervised learning
 Unsupervised learning: You have unlabeled data, and you are trying to categorize the data and find patterns based on many criteria. We have a lot of examples of unsupervised learning such as: K-Means Clustering, Hierarchical Clustering...
+
+### These machine learning models are a summary of what I learned in a ***Machine Learning with Python*** course of the Cognitive Class.
